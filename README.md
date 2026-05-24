@@ -6,7 +6,7 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=%E9%B1%BC%E4%B8%8D%E5%AD%98%E5%9C%A8">
 </a>
 
-集成电路专业学生，关注 AI 应用、自动化工具和工程实践。
+
 
 [GitHub](https://github.com/change31) · [Email](mailto:zhouyf@bupt.edu.cn)
 
