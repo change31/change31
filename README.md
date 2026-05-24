@@ -5,9 +5,13 @@ This repository powers https://github.com/change31.
 Keep the visible sections concise; GitHub profile visitors usually scan first.
 -->
 
-<p align="center">
-  <img width="100%" alt="change31 profile banner" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1E3A8A,45:14B8A6,100:F59E0B&text=change31&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Automation%20%7C%20Full-stack%20Engineering%20%7C%20Practical%20Tools&descAlignY=58&descSize=15">
-</p>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=%E9%B1%BC%E4%B8%8D%E5%AD%98%E5%9C%A8">
+</a>
+
+<p><i>AI Automation | Full-stack Engineering | Practical Tools</i></p>
 
 <p align="center">
   <a href="https://github.com/change31">
@@ -19,9 +23,7 @@ Keep the visible sections concise; GitHub profile visitors usually scan first.
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=change31&label=Views&style=for-the-badge&color=0e75b6">
 </p>
 
-<p align="center">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=Building+AI-assisted+tools+that+actually+ship.;Turning+automation+ideas+into+repeatable+systems.;Keeping+products+clear%2C+useful%2C+and+maintainable.">
-</p>
+</div>
 
 ---
 
