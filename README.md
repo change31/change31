@@ -23,15 +23,27 @@ Keep the visible sections concise; GitHub profile visitors usually scan first.
   <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=Building+AI-assisted+tools+that+actually+ship.;Turning+automation+ideas+into+repeatable+systems.;Keeping+products+clear%2C+useful%2C+and+maintainable.">
 </p>
 
+---
+
+## About Me
+
+- BUPT learner focused on AI applications, automation, and software engineering.
+- I use GitHub as a public lab: ship small tools, record experiments, and keep useful work reproducible.
+- Current interest: LLM workflows, data-driven products, Android practice, and computer architecture basics.
+
+---
+
 ## Snapshot
 
 ```txt
 change31
-├─ Focus       AI tools / automation / full-stack products
-├─ Languages   Python / TypeScript / JavaScript / Kotlin / C++
-├─ Habits      small iterations, reproducible setup, clear interfaces
+├─ Identity    BUPT learner / builder / automation practitioner
+├─ Focus       AI tools / full-stack products / practical workflows
+├─ Languages   Python / TypeScript / JavaScript / Kotlin / C++ / SystemVerilog
 └─ Contact     zhouyf@bupt.edu.cn
 ```
+
+---
 
 ## Current Direction
 
@@ -41,6 +53,8 @@ change31
 | Product engineering | Frontend interfaces, backend APIs, dashboards, and tools that are easy to operate. |
 | Automation | Repeatable scripts, GitHub Actions, scheduled jobs, and workflow cleanup. |
 | Systems learning | RISC-V, Android, and lower-level implementation practice. |
+
+---
 
 ## Selected Work
 
@@ -53,12 +67,15 @@ change31
   </a>
 </p>
 
-| Project | Role | Notes |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [AI-Summary](https://github.com/change31/AI-Summary) | Owner | AI-powered content summarization and classification. |
-| [daily_stock_analysis](https://github.com/change31/daily_stock_analysis) | Fork / adaptation | LLM-powered stock analysis workflow for A/H/US markets. |
+| [AI-Summary](https://github.com/change31/AI-Summary) | AI-powered content summarization and classification. | Python, LLM |
+| [daily_stock_analysis](https://github.com/change31/daily_stock_analysis) | LLM-assisted stock analysis workflow for A/H/US markets. | Python, Data, Automation |
+| [my_blog_photo](https://github.com/change31/my_blog_photo) | Image asset repository for blog or notes. | Assets, Content |
 
 I also keep learning notes and private experiments around Android/Kotlin and RISC-V/SystemVerilog.
+
+---
 
 ## Toolbox
 
@@ -69,6 +86,16 @@ I also keep learning notes and private experiments around Android/Kotlin and RIS
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-DA1F26?style=flat-square&logoColor=white">
+</p>
+
+<p align="center">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </p>
 
 <p align="center">
@@ -80,6 +107,8 @@ I also keep learning notes and private experiments around Android/Kotlin and RIS
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
+---
+
 ## GitHub Analytics
 
 <p align="center">
@@ -88,8 +117,14 @@ I also keep learning notes and private experiments around Android/Kotlin and RIS
 </p>
 
 <p align="center">
+  <img width="92%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=change31&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6">
+</p>
+
+<p align="center">
   <img width="92%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=change31&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity">
 </p>
+
+---
 
 ## Contribution Graph
 
@@ -98,6 +133,12 @@ I also keep learning notes and private experiments around Android/Kotlin and RIS
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<p align="center">
+  Star useful projects, open issues, or reach me by email if you want to discuss ideas.
+</p>
 
 <p align="center">
   <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1E3A8A,45:14B8A6,100:F59E0B">
