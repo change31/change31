@@ -1,105 +1,104 @@
 <!--
-GitHub profile README for change31.
+Profile README for change31.
 
-To publish this as your GitHub profile homepage, put this README in a public
-repository named exactly `change31`.
-
-Quick personalization ideas:
-- Replace the focus areas below with your strongest real directions.
-- Pin 3-6 representative repositories on your GitHub profile.
-- Uncomment the Featured Projects section near the bottom when you have links ready.
+This repository powers https://github.com/change31.
+Keep the visible sections concise; GitHub profile visitors usually scan first.
 -->
-
-<div align="center">
-
-# change31
-
-**Developer focused on AI, automation, and practical full-stack products.**
-
-用工程化方式把想法变成可靠、可复用、可交付的工具。
-
-<p>
-  <a href="mailto:zhouyf@bupt.edu.cn">
-    <img alt="Email" src="https://img.shields.io/badge/Email-zhouyf%40bupt.edu.cn-1f6feb?style=flat&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/change31?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/change31?label=Followers&style=flat&color=24292f">
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=change31&label=Profile%20views&color=0e75b6&style=flat">
-</p>
-
-</div>
-
-## About
-
-I like building things that move from "interesting idea" to "actually useful":
-clear interfaces, dependable services, and workflows that reduce repeated work.
-
-- Current focus: AI-assisted tools, full-stack engineering, and automation.
-- Working style: ship small, verify often, keep the system understandable.
-- Good fit for: prototypes, developer tooling, data products, and open-source collaboration.
-
-## Tech Stack
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
-</p>
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-</p>
-
-<p>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111111">
-</p>
-
-## What You Will Find Here
-
-| Area | What I tend to build |
-| --- | --- |
-| AI tooling | Agents, prompt workflows, retrieval prototypes, and small productivity systems. |
-| Web products | Clean frontends, useful APIs, dashboards, and internal tools. |
-| Automation | Scripts, bots, CI workflows, and repeatable developer workflows. |
-| Learning notes | Compact experiments, reproducible demos, and engineering write-ups. |
-
-## GitHub Snapshot
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=change31&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change31&layout=compact&hide_border=true&theme=transparent">
+  <img width="100%" alt="change31 profile banner" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1E3A8A,45:14B8A6,100:F59E0B&text=change31&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20Automation%20%7C%20Full-stack%20Engineering%20%7C%20Practical%20Tools&descAlignY=58&descSize=15">
 </p>
 
-## Project Quality Bar
+<p align="center">
+  <a href="https://github.com/change31">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-change31-24292f?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:zhouyf@bupt.edu.cn">
+    <img alt="Email" src="https://img.shields.io/badge/Email-zhouyf%40bupt.edu.cn-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=change31&label=Views&style=for-the-badge&color=0e75b6">
+</p>
 
-I try to keep repositories easy to evaluate quickly:
+<p align="center">
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=Building+AI-assisted+tools+that+actually+ship.;Turning+automation+ideas+into+repeatable+systems.;Keeping+products+clear%2C+useful%2C+and+maintainable.">
+</p>
 
-- A clear problem statement and outcome.
-- A short setup path that works from a fresh clone.
-- Screenshots, examples, or demos when the project has a visible result.
-- Notes on tradeoffs, limitations, and next steps.
+## Snapshot
 
-<!--
-## Featured Projects
+```txt
+change31
+├─ Focus       AI tools / automation / full-stack products
+├─ Languages   Python / TypeScript / JavaScript / Kotlin / C++
+├─ Habits      small iterations, reproducible setup, clear interfaces
+└─ Contact     zhouyf@bupt.edu.cn
+```
 
-| Project | Why it matters | Stack |
+## Current Direction
+
+| Track | What I am building toward |
+| --- | --- |
+| AI applications | Summarization, classification, agent-style workflows, and practical LLM utilities. |
+| Product engineering | Frontend interfaces, backend APIs, dashboards, and tools that are easy to operate. |
+| Automation | Repeatable scripts, GitHub Actions, scheduled jobs, and workflow cleanup. |
+| Systems learning | RISC-V, Android, and lower-level implementation practice. |
+
+## Selected Work
+
+<p align="center">
+  <a href="https://github.com/change31/AI-Summary">
+    <img height="130" alt="AI-Summary repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=change31&repo=AI-Summary&hide_border=true&theme=transparent&title_color=1E3A8A&text_color=334155&icon_color=14B8A6">
+  </a>
+  <a href="https://github.com/change31/daily_stock_analysis">
+    <img height="130" alt="daily_stock_analysis repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=change31&repo=daily_stock_analysis&hide_border=true&theme=transparent&title_color=1E3A8A&text_color=334155&icon_color=F59E0B">
+  </a>
+</p>
+
+| Project | Role | Notes |
 | --- | --- | --- |
-| [Project name](https://github.com/change31/project) | One-line outcome or technical highlight. | Python / FastAPI |
-| [Project name](https://github.com/change31/project) | One-line outcome or technical highlight. | React / TypeScript |
-| [Project name](https://github.com/change31/project) | One-line outcome or technical highlight. | PyTorch / Data |
--->
+| [AI-Summary](https://github.com/change31/AI-Summary) | Owner | AI-powered content summarization and classification. |
+| [daily_stock_analysis](https://github.com/change31/daily_stock_analysis) | Fork / adaptation | LLM-powered stock analysis workflow for A/H/US markets. |
 
-## Contact
+I also keep learning notes and private experiments around Android/Kotlin and RISC-V/SystemVerilog.
 
-The best way to reach me is email: [zhouyf@bupt.edu.cn](mailto:zhouyf@bupt.edu.cn).
+## Toolbox
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+</p>
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=change31&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=1E3A8A&text_color=334155&icon_color=14B8A6">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change31&layout=compact&hide_border=true&theme=transparent&title_color=1E3A8A&text_color=334155">
+</p>
+
+<p align="center">
+  <img width="92%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=change31&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity">
+</p>
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1E3A8A,45:14B8A6,100:F59E0B">
+</p>
