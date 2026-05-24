@@ -3,10 +3,15 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=%E9%B1%BC%E4%B8%8D%E5%AD%98%E5%9C%A8">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=%E9%B1%BC%E4%B8%8D%E5%AD%98%E5%9C%A8">
 </a>
 
-集成电路专业学生，关注 AI 应用、自动化工具和工程实践。
+**集成电路专业 | AI 应用探索 | 工程实践**
+
+<sub>从电路到系统，从数据到工具。记录学习，也尝试把想法做成可运行的东西。</sub>
+
+<br>
+<br>
 
 [GitHub](https://github.com/change31) · [Email](mailto:zhouyf@bupt.edu.cn)
 
@@ -14,49 +19,48 @@
 
 ---
 
-## 关于我
+## 你好
 
-- 集成电路专业，主要关注数字系统、计算机体系结构、RISC-V 和 SystemVerilog。
-- 对 AI 方向感兴趣，尤其是 LLM 工具、内容总结、数据分析和自动化工作流。
-- GitHub 主要用于记录学习、整理实验、沉淀可复用的小工具和项目。
+我是 `change31`，集成电路专业学生。现在主要在两个方向积累：
 
-## 关注方向
-
-| 方向 | 内容 |
+| 集成电路 / 系统 | AI / 软件 |
 | --- | --- |
-| 集成电路 | 数字逻辑、RISC-V、SystemVerilog、计算机体系结构 |
+| 数字逻辑、计算机体系结构、RISC-V、SystemVerilog | LLM 应用、信息总结、数据分析、自动化脚本 |
+
+我希望自己的项目保持三个特点：能运行、能复现、能解释清楚。
+
+## 正在关注
+
+| 方向 | 关键词 |
+| --- | --- |
+| IC / 系统 | RISC-V、流水线 CPU、SystemVerilog、Linux |
 | AI 应用 | LLM 工作流、内容总结、信息分类、数据分析 |
-| 软件工程 | Python 工具、脚本自动化、GitHub Actions、简单 Web/API |
-| 移动开发 | Kotlin / Android 实践 |
+| 工程实践 | Python 工具、GitHub Actions、Kotlin / Android |
 
-## 项目
+## 项目索引
 
-| 项目 | 简介 | 技术 |
+| 项目 | 说明 | 技术 |
 | --- | --- | --- |
 | [AI-Summary](https://github.com/change31/AI-Summary) | AI 自动总结内容并分类。 | Python, LLM |
-| [daily_stock_analysis](https://github.com/change31/daily_stock_analysis) | LLM 辅助的市场数据分析和自动化工作流。 | Python, Data, Automation |
+| [daily_stock_analysis](https://github.com/change31/daily_stock_analysis) | LLM 辅助的市场数据分析和自动化工作流。 | Python, Data |
 | [my_blog_photo](https://github.com/change31/my_blog_photo) | 博客和学习笔记使用的图片资源。 | Assets |
 
-## 技术栈
+## 工具箱
 
-| 类型 | 工具 |
-| --- | --- |
-| 编程语言 | Python, C/C++, Kotlin, Java, TypeScript |
-| IC / 系统 | SystemVerilog, RISC-V, Linux |
-| AI / 数据 | Jupyter, PyTorch, NumPy, Pandas |
-| 工程工具 | Git, GitHub Actions, Docker |
+`SystemVerilog` · `RISC-V` · `Python` · `C/C++` · `Kotlin` · `Java` · `TypeScript` · `Jupyter` · `PyTorch` · `NumPy` · `Pandas` · `Git` · `Docker`
 
-## GitHub 统计
+<details>
+<summary>GitHub 统计与贡献图</summary>
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=change31&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=1E3A8A&text_color=334155&icon_color=14B8A6">
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change31&layout=compact&hide_border=true&theme=transparent&title_color=1E3A8A&text_color=334155">
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=change31&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0EA5E9&text_color=334155&icon_color=0EA5E9">
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change31&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=334155">
 </p>
-
-## 贡献记录
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake.svg">
 </picture>
+
+</details>
