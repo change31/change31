@@ -2,15 +2,20 @@
 
 <div align="center">
 
-<img alt="鱼不存在" src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=700&size=46&duration=2200&pause=1600&color=FF4D8D&center=true&vCenter=true&width=520&height=72&lines=%E9%B1%BC%E4%B8%8D%E5%AD%98%E5%9C%A8">
+<img alt="鱼不存在" src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=700&size=52&duration=2200&pause=1800&color=FF4D8D&center=true&vCenter=true&width=560&height=80&lines=%E9%B1%BC%E4%B8%8D%E5%AD%98%E5%9C%A8">
 
 <p>
-  <img alt="IC" src="https://img.shields.io/badge/IC-RISC--V-22C55E?style=flat-square">
-  <img alt="AI" src="https://img.shields.io/badge/AI-LLM-8B5CF6?style=flat-square">
-  <img alt="Python" src="https://img.shields.io/badge/Code-Python-0EA5E9?style=flat-square">
+  <b>集成电路专业学生</b> · AI 应用探索中 · 喜欢把想法做成小工具
 </p>
 
-<img alt="typing intro" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=18&duration=2500&pause=900&color=64748B&center=true&vCenter=true&width=620&lines=%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E4%B8%93%E4%B8%9A;%E5%85%B3%E6%B3%A8+AI+%E5%BA%94%E7%94%A8%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5;%E5%81%9A%E4%B8%80%E4%BA%9B%E5%B0%8F%E8%80%8C%E6%B8%85%E6%A5%9A%E7%9A%84%E4%B8%9C%E8%A5%BF">
+<p>
+  <img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-22C55E?style=for-the-badge&logo=riscv&logoColor=white">
+  <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-FF4D8D?style=for-the-badge">
+  <img alt="LLM" src="https://img.shields.io/badge/LLM-8B5CF6?style=for-the-badge">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+<img alt="typing intro" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=18&duration=2500&pause=900&color=64748B&center=true&vCenter=true&width=720&lines=%E4%BB%8E%E7%94%B5%E8%B7%AF%E5%88%B0%E7%B3%BB%E7%BB%9F;%E4%BB%8E%E6%95%B0%E6%8D%AE%E5%88%B0%E5%B7%A5%E5%85%B7;%E5%9C%A8+IC+%E5%92%8C+AI+%E4%B9%8B%E9%97%B4%E6%85%A2%E6%85%A2%E6%90%AD%E6%A1%A5">
 
 <p>
   <a href="https://github.com/change31">GitHub</a>
@@ -26,11 +31,32 @@
 
 集成电路专业学生。对 AI 应用、自动化和小而清楚的工程工具感兴趣。
 
-## 关键词
+## 现在关注
 
-`集成电路` · `RISC-V` · `SystemVerilog` · `Python` · `LLM` · `数据分析`
+<table>
+  <tr>
+    <td align="center"><b>IC / 系统</b><br>RISC-V<br>SystemVerilog<br>数字系统</td>
+    <td align="center"><b>AI 应用</b><br>LLM<br>内容总结<br>数据分析</td>
+    <td align="center"><b>工程工具</b><br>Python<br>自动化<br>GitHub Actions</td>
+  </tr>
+</table>
+
+## 工具箱
+
+<p align="center">
+  <img alt="skills" src="https://skillicons.dev/icons?i=python,c,cpp,kotlin,java,ts,pytorch,linux,docker,git,github&perline=11">
+</p>
 
 ## 项目
+
+<p align="center">
+  <a href="https://github.com/change31/AI-Summary">
+    <img height="128" alt="AI-Summary" src="https://github-readme-stats.vercel.app/api/pin/?username=change31&repo=AI-Summary&hide_border=true&theme=transparent&title_color=FF4D8D&text_color=475569&icon_color=8B5CF6">
+  </a>
+  <a href="https://github.com/change31/daily_stock_analysis">
+    <img height="128" alt="daily_stock_analysis" src="https://github-readme-stats.vercel.app/api/pin/?username=change31&repo=daily_stock_analysis&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=475569&icon_color=22C55E">
+  </a>
+</p>
 
 | 项目 | 简介 |
 | --- | --- |
@@ -38,13 +64,15 @@
 | [daily_stock_analysis](https://github.com/change31/daily_stock_analysis) | LLM 辅助数据分析流程 |
 | [my_blog_photo](https://github.com/change31/my_blog_photo) | 学习笔记图片资源 |
 
-<details>
-<summary>GitHub 统计</summary>
+## GitHub
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=change31&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=334155&text_color=475569&icon_color=64748B">
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change31&layout=compact&hide_border=true&theme=transparent&title_color=334155&text_color=475569">
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=change31&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=FF4D8D&text_color=475569&icon_color=8B5CF6">
+  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change31&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=475569">
 </p>
+
+<details>
+<summary>贡献图</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/change31/change31/output/github-contribution-grid-snake-dark.svg">
