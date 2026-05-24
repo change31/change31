@@ -6,13 +6,6 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=%E9%B1%BC%E4%B8%8D%E5%AD%98%E5%9C%A8">
 </a>
 
-**集成电路专业 | AI 应用探索 | 工程实践**
-
-<sub>从电路到系统，从数据到工具。记录学习，也尝试把想法做成可运行的东西。</sub>
-
-<br>
-<br>
-
 [GitHub](https://github.com/change31) · [Email](mailto:zhouyf@bupt.edu.cn)
 
 </div>
